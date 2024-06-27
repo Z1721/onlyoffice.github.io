@@ -1,6 +1,5 @@
 (function (window, undefined) {
-  var URL_TO_PLUGIN =
-    "https://raw.githubusercontent.com/Z1721/onlyoffice.github.io/master/sdkjs-plugins/content/helloword/config.json";
+  var URL_TO_PLUGIN = "";
   var xhrObj = new XMLHttpRequest();
   xhrObj.open("GET", URL_TO_PLUGIN + "config.json", false);
   xhrObj.send("");

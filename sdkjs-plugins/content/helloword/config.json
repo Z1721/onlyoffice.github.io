@@ -7,7 +7,7 @@
       "description": "hello world",
       "url": "index.html",
       "icons": ["resources/img/icon.png", "resources/img/icon@2x.png"],
-      "isViewer": false,
+      "isViewer": true,
       "EditorsSupport": ["word"],
       "isVisual": false,
       "isModal": true,
